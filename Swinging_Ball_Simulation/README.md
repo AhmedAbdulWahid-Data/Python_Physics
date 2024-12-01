@@ -1,4 +1,4 @@
-# 🎮 **Interactive Physics Simulation with Pymunk & Pygame** 🚀
+# 🎮 **Swinging Ball Simulation** with Pymunk & Pygame** 🚀
 
 Welcome to the **Physics Playground!** 🌟 This project is an exciting interactive physics simulation where you can experiment with gravity, forces, and collisions. Powered by **Pymunk** and **Pygame**, it’s your very own virtual sandbox to play around with physics in a fun, visual way!
 
