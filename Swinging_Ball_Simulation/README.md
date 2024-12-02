@@ -12,7 +12,7 @@ Welcome to the **Physics Playground!** 🌟 This project is an exciting interact
   
 - **Swinging Pendulum**: A ball that swings, spins, and maybe even knocks something over! 🔄
 
-
+---
 
 https://github.com/user-attachments/assets/874fe6b2-ba06-428d-9a6c-d12ff55ad192
 
