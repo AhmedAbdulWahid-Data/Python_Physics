@@ -12,7 +12,7 @@ Welcome to the **Planet Simulation**, where you can experience the magic of grav
   
 - 🌞 **Planet Customization**: You can add your own planets, change their size, and even modify their speeds!
 
-
+---
 
 https://github.com/user-attachments/assets/94cfdf4b-b14a-4f74-8891-8e8d6125480e
 
